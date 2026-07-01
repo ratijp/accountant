@@ -1,0 +1,1 @@
+"""Accountant ERP backend package."""
