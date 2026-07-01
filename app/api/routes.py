@@ -30,7 +30,7 @@ from app.schemas.dto import (
     SupplierRead,
     SupplierUpdate,
     WarehouseCreate,
-    WarehouseReadvvv,
+    WarehouseRead,
 )
 from app.services.dashboard import accounting_summary, dashboard_summary, profit_and_loss, stock_valuation_report
 from app.services.workflows import (
